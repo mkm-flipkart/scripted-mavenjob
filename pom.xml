@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>releases</version>
+	<version>mkm-snapshot</version>
 	
 	<name>maven-web-application</name>
 
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>krishnamohan-devbranch-release</name>
-	      <url>http://13.234.67.223:9980/mkm-nexus/repository/flipkart-releases</url>
+	      <url>http://13.234.67.223:9980/mkm-nexus/repository/krishna-weds-sindhu-for-release</url>
 	     </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>krishnamohan-devbranch-release </name>
-	      <url>http://13.234.67.223:9980/mkm-nexus/repository/flipkart-snapshots/</url>
+	      <url>http://13.234.67.223:9980/mkm-nexus/repository/krishna-weds-sindhu-for-snapshot/</url>
 	      </snapshotRepository>
 	    
 	</distributionManagement>
