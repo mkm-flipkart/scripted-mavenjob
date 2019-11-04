@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>ravikiran</artifactId>
+	<artifactId>sitecrawl</artifactId>
 	<packaging>war</packaging>
 	<version>releases</version>
 	
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>krishnamohan-flipkart</name>
-	      <url>http://13.232.50.177:9980/mkm-nexus/repository/krishna-weds-sindhu-for-release/</url>
+	      <url>http://13.232.50.177:9980/mkm-nexus/repository/flipkart-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>krishnamohan-flipkart </name>
-	      <url>http://13.232.50.177:9980/mkm-nexus/repository/krishna-weds-sindhu-for-snapshot/</url>
+	      <url>http://13.232.50.177:9980/mkm-nexus/repository/flipkart-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
