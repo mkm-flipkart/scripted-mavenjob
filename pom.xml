@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>krishnamohan-flipkart</name>
-	      <url>http://13.232.50.177:9980/mkm-nexus/repository/flipkart-releases/</url>
+	      <url>http://13.232.50.177:9980/mkm-nexus/repository/krishna-weds-sindhu-for-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>krishnamohan-flipkart </name>
-	      <url>http://13.232.50.177:9980/mkm-nexus/repository/flipkart-snapshots/</url>
+	      <url>http://13.232.50.177:9980/mkm-nexus/repository/krishna-weds-sindhu-for-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
